@@ -47,14 +47,14 @@
         preset = {
             inline = rgb(46, 46, 46),
             outline = rgb(10, 10, 15),
-            accent = rgb(19, 128, 225),
+            accent = rgb(30, 255, 43),
             background = rgb(20, 20, 25),              
             misc_1 = rgb(30, 30, 35),
             text_color = rgb(245, 245, 245),
             unselected = rgb(145, 145, 145),
             tooltip = rgb(73, 73, 73),
             misc_2 = rgb(23, 23, 28),
-            font = "ProggyClean",
+            font = "Tahoma",
             textsize = 12
         },
         utility = {},
