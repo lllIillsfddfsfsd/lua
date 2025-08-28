@@ -4947,7 +4947,7 @@
                     for _,text in themes.utility.text_color.TextColor3 do 
                         text.FontFace = Fonts[option]
                     end 
-                end, Default = "ProggyClean", Flag = "Menu Font"})
+                end, Default = "Tahoma", Flag = "Menu Font"})
                 Section:Slider({Name = "TextSize", Default = 12, Decimal = 1, Min = 1, Max = 30, Callback = function(int)
                     for _,text in themes.utility.text_color.TextColor3 do 
                         text.TextSize = int
